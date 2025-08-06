@@ -10,6 +10,17 @@
 
 ![App Screenshot](assets/images/screenshots.png)
 
+## 📱 Demo Apps
+
+### Loomzy Store
+- [Android (Google Play)](https://play.google.com/store/apps/details?id=com.ecomartweb.loomzy)
+- [iOS (App Store)](https://apps.apple.com/lk/app/loomzy-store/id6746418593)
+
+### Prime Computers
+- [Android (Google Play)](https://play.google.com/store/apps/details?id=com.ecomartweb.primecomputers)
+- [iOS (App Store)](https://apps.apple.com/lk/app/prime-computers/id6746157872)
+
+
 A modern, feature-rich Flutter ecommerce application built with clean architecture principles and integrated with WooCommerce backend. This app provides a complete mobile shopping experience with authentication, product browsing, cart management, checkout, and payment processing.
 
 ## 📱 About This Project
