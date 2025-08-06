@@ -8,6 +8,8 @@
 [![Issues](https://img.shields.io/github/issues/amlsampath/FlutterWooStore)](https://github.com/amlsampath/FlutterWooStore/issues)
 [![Stars](https://img.shields.io/github/stars/amlsampath/FlutterWooStore)](https://github.com/amlsampath/FlutterWooStore/stargazers)
 
+![App Screenshot](assets/images/screenshots.png)
+
 A modern, feature-rich Flutter ecommerce application built with clean architecture principles and integrated with WooCommerce backend. This app provides a complete mobile shopping experience with authentication, product browsing, cart management, checkout, and payment processing.
 
 ## 📱 About This Project
