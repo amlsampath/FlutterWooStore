@@ -21,7 +21,7 @@ class PayHereService {
         "sandbox": AppConfig.payHereIsSandbox,
         "merchant_id": AppConfig.payHereMerchantId,
         "merchant_secret": AppConfig.payHereMerchantSecret,
-        "notify_url": "https://neatcomputer.lk/wp-json/wc/v3/payhere/notify",
+        "notify_url": "",
         "order_id": orderId,
         "items": "Order #$orderId",
         "amount": amount.toString(),
